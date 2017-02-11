@@ -4,6 +4,11 @@ This repository contains a list of tips which you can review before heading to a
 
 Curated by [@driesvints](https://twitter.com/driesvints)
 
+## Europe
+
 - [Fosdem](fosdem.md)
+
+## Northern-America
+
 - [Lonestar PHP](lonestarphp.md)
 - [Sunshine PHP](sunshinephp.md)
