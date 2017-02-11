@@ -10,5 +10,5 @@ Curated by [@driesvints](https://twitter.com/driesvints)
 
 ## Northern-America
 
-- [Lonestar PHP](lonestarphp.md)
+- [Lone Star PHP](lonestarphp.md)
 - [Sunshine PHP](sunshinephp.md)
