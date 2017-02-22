@@ -12,3 +12,4 @@ Curated by [@driesvints](https://twitter.com/driesvints)
 
 - [Lone Star PHP](lonestarphp.md)
 - [Sunshine PHP](sunshinephp.md)
+- [PHP UK](phpuk.md)
