@@ -7,6 +7,7 @@ Curated by [@driesvints](https://twitter.com/driesvints)
 ## Europe
 
 - [Fosdem](fosdem.md)
+- [PHP UK](phpuk.md)
 
 ## Northern-America
 

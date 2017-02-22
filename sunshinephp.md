@@ -14,7 +14,7 @@ Website: http://sunshinephp.com
 
 - Miami things to see:
     - Miami Beach (South Beach)
-    - Downtonw Miami
+    - Downtown Miami
     - Design District
     - Wynwood: VERY lively neighbourhood
     - Sugar: an expensive rooftop bar with a view over the downtown skyline
