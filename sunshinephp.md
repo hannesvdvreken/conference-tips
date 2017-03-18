@@ -1,6 +1,9 @@
 # SunshinePHP 
 
 Website: http://sunshinephp.com
+Twitter: https://twitter.com/sunshinephp
+Flickr: https://www.flickr.com/search/?text=sunshinephp
+SoFloPHP: https://twitter.com/SoFloPHP
 
 - It's Miami in winter (early February). Don't bring your coat. Outside it's hot! Inside it's chilly (air conditioned).
 - This conference is not that crowded. So you can basically step into a room 30 seconds before a talk starts.
