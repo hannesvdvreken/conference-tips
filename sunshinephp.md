@@ -9,6 +9,8 @@ SoFloPHP: https://twitter.com/SoFloPHP
 
 SunshinePHP is a local run user group conference. Ran by [SoFloPHP](https://www.meetup.com/South-Florida-PHP-Users-Group/), [Adam Culp](https://twitter.com/adamculp) has been organizing this conference for over 4 years. He brings together a large skillset in speakers ranging from Laravel Experts, Zend Framework Experts, DevOps magicians, and so many more. You are bound to leave this conference ready to implement new tools and ideas into your existing workflow. 
 
+### Tips
+
 - It's Miami in winter (early February). Don't bring your coat. Outside it's hot! Inside it's chilly (air conditioned).
 - This conference is not that crowded. So you can basically step into a room 30 seconds before a talk starts.
 - It takes place in an airport hotel called Embassy Suites by Hilton.
@@ -21,10 +23,11 @@ SunshinePHP is a local run user group conference. Ran by [SoFloPHP](https://www.
 - Provides an uncon space as well, so if you are attending and get the urge to speak there is a possibility for you to do that. 
 - Hotel has a bar and restaurant on site, a good way to socialize and meet other developers. Can be pricey though!
 
-- Miami things to see:
-    - Miami Beach (South Beach)
-    - Downtown Miami
-    - Design District
-    - Wynwood: VERY lively neighbourhood
-    - Sugar: an expensive rooftop bar with a view over the downtown skyline
-    - Dogma: a Hot Dog place far away from the conference, but gotta get the original thing, right?
+### Things To See
+
+- Miami Beach (South Beach)
+- Downtown Miami
+- Design District
+- Wynwood: VERY lively neighbourhood
+- Sugar: an expensive rooftop bar with a view over the downtown skyline
+- Dogma: a Hot Dog place far away from the conference, but gotta get the original thing, right?
