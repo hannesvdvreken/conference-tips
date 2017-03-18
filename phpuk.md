@@ -2,6 +2,8 @@
 
 Website: [phpconference.co.uk](http://phpconference.co.uk/)
 
+### Tips
+
 - The day before the conference there is always a pre-conference meetup/social. If you wait long enough, some batches of speakers will drop in after their dinner.
 - London in February means rainy days. But if you bring an umbrella, there is a free wardrobe service. Be kind to staff :-)
 - Brits like to queue. Queue to get your badge, queue to get food, queue to get your stuff from the wardrobe, ...
@@ -13,8 +15,11 @@ Website: [phpconference.co.uk](http://phpconference.co.uk/)
 - There's chilled water (and coffee?) at all times in the sponsor area and chill area.
 - Extremely useful tip I've tried myself: get your stuff from the wardrobe _before_ the closing keynote. This way you don't have to queue when everyone want their stuff at the same time after the closing keynote.
 
-- London bars close to the venue where people might hang out after conference hours:
-    - [The Fox](https://goo.gl/maps/K6zrMzsM5XL2)
-    - [Blueberry Bar](https://goo.gl/maps/LfLkYVMrimk)
-    - [Finch's Pub](https://goo.gl/maps/bwGJmYCnAht)
-    - [The Craft Beer Co.](https://goo.gl/maps/q5HZAxdjpDn)
+### Drinks
+
+London bars close to the venue where people might hang out after conference hours:
+
+- [The Fox](https://goo.gl/maps/K6zrMzsM5XL2)
+- [Blueberry Bar](https://goo.gl/maps/LfLkYVMrimk)
+- [Finch's Pub](https://goo.gl/maps/bwGJmYCnAht)
+- [The Craft Beer Co.](https://goo.gl/maps/q5HZAxdjpDn)
