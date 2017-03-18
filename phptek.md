@@ -7,7 +7,7 @@ Location: Atlanta, GA
 
 ### About The Conference
 
-PHP[TEK}, brought to you by the people who run PHPArch, returns for the 12th year, this time taking place in Atlanta, GA. They bring some of the best speakers, both local and international to speak about topics varying from framework specific to soft skills. They offer both technical talks and tutorial days. A conference that every developer should go to at least once, you will leave energized and ready to tackle some big problems you have in your codebase!
+PHP[TEK], brought to you by the people who run PHPArch, returns for the 12th year, this time taking place in Atlanta, GA. They bring some of the best speakers, both local and international to speak about topics varying from framework specific to soft skills. They offer both technical talks and tutorial days. A conference that every developer should go to at least once, you will leave energized and ready to tackle some big problems you have in your codebase!
 
 ### Tips
 
