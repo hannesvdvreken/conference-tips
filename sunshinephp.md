@@ -23,6 +23,18 @@ SunshinePHP is a local run user group conference. Ran by [SoFloPHP](https://www.
 - Provides an uncon space as well, so if you are attending and get the urge to speak there is a possibility for you to do that. 
 - Hotel has a bar and restaurant on site, a good way to socialize and meet other developers. Can be pricey though!
 
+### Speakers
+
+- The conference will get you three nights in the hotel, four if you are doing a tutorial as well. 
+- There is a speaker dinner the Thursday night before the conference. 
+- Flights in and out of Miami are always at odd times, so be ready for that. 
+- Your room key is how you take advantage of the free happy hour the hotel offers. 
+- There is a business center, gym and pool. Its warm in Miami during February, so swimming is an option. 
+- The rooms ar generally kept cooler then average, so if you are the first talk in the morning, prepare for being a little chilly. 
+- Bring all the adapters you can think of for your computer. Some of the more seasoned speakers will be able to cover you if you forget a dongle. 
+- As always, the conference wifi isnt great. They put access points in every room, but do your best to not rely on the internet. 
+- If you forgot something at home, there is a small shop that can get you most personal care things. 
+
 ### Things To See
 
 - Miami Beach (South Beach)
