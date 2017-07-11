@@ -10,5 +10,4 @@ This repository contains a list of tips which you can review before heading to a
 ## Northern-America
 
 - [PHP[TEK]](phptek.md)
-- [Lone Star PHP](lonestarphp.md)
 - [Sunshine PHP](sunshinephp.md)
