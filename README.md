@@ -9,5 +9,7 @@ This repository contains a list of tips which you can review before heading to a
 
 ## Northern-America
 
+- [Pacific Northwest PHP](pnwphp.md)
 - [PHP[TEK]](phptek.md)
 - [Sunshine PHP](sunshinephp.md)
+- [ZendCon](zendcon.md)
