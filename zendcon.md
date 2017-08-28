@@ -1,21 +1,15 @@
 # ZendCon 
 
-Website: http://www.zendcon.com/ 
-Twitter: https://twitter.com/zendcon 
+Website: http://www.zendcon.com/  
+Twitter: https://twitter.com/zendcon  
 Flickr: https://www.flickr.com/search?text=zendcon&structured=yes
-
 
 ### About The Conference
 
-Zendcon, the premier PHP conference sponsored by Zend/RogueWav!
+ZendCon, the premier PHP conference sponsored by Zend & RogueWave!
 
 ### Tips
 
-
-
 ### Speakers
 
-
 ### Things To See
-
-
