@@ -1,6 +1,6 @@
 # Pacific Northwest PHP
 
-Website: http://www.pnwphp.com/
+Website: http://www.pnwphp.com/  
 Twitter: https://twitter.com/pnwphp
 
 ### About The Conference
